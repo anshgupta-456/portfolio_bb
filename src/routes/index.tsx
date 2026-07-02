@@ -631,6 +631,7 @@ function GameLog() {
 
 function TrophyCase() {
   const items = [
+    ["⭐","Selected for Amazon ML Summer School 2026","Top 3000 candidates from 140K+ applicants."],
     ["🏆","AWS Bharat Startup Yatra","Core team member of CubeSanchar."],
     ["🥇","Top 10 Teams","Blueprint Competition · eDC IIT Delhi."],
     ["🥈","2nd Place","Startup Spotlight · Masters' Union (MUIL)."],
