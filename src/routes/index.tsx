@@ -675,8 +675,9 @@ function Timeout({ onDunk }: { onDunk: () => void }) {
         <div className="mt-6 flex gap-3 flex-wrap justify-center relative">
           <CourtButton href="mailto:anshgupta456ansh@gmail.com" onClick={onDunk}>📧 Email</CourtButton>
           <CourtButton href="tel:+919311522763" variant="ghost" onClick={onDunk}>📞 Call</CourtButton>
-          <CourtButton href="https://linkedin.com/in/ansh-gupta" variant="ghost" onClick={onDunk} target="_blank" rel="noopener">LinkedIn</CourtButton>
+          <CourtButton href="https://www.linkedin.com/in/ansh-gupta-7b9a92291/" variant="ghost" onClick={onDunk} target="_blank" rel="noopener">LinkedIn</CourtButton>
           <CourtButton href="https://github.com/anshgupta-456" variant="whistle" onClick={onDunk} target="_blank" rel="noopener">GitHub</CourtButton>
+          <CourtButton href="https://drive.google.com/file/d/1W02H3Wl_jnUkcEqN7eYxa3juMMOHNeRR/view?usp=sharing" onClick={onDunk}>Resume</CourtButton>
         </div>
       </Card>
     </section>
