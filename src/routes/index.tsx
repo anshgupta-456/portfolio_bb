@@ -698,8 +698,9 @@ function CourtFooter({ onDunk }: { onDunk: () => void }) {
   const contacts: { label: string; href: string; icon: string }[] = [
     { label: "Email",    href: "mailto:anshgupta456ansh@gmail.com", icon: "📧" },
     { label: "Call",     href: "tel:+919311522763",                 icon: "📞" },
-    { label: "LinkedIn", href: "https://linkedin.com/in/ansh-gupta", icon: "in" },
+    { label: "LinkedIn", href: "https://www.linkedin.com/in/ansh-gupta-7b9a92291/", icon: "in" },
     { label: "GitHub",   href: "https://github.com/anshgupta-456",   icon: "gh" },
+    { label: "Resume",   href: "https://drive.google.com/file/d/1W02H3Wl_jnUkcEqN7eYxa3juMMOHNeRR/view?usp=sharing", icon: "📄" },
   ];
   return (
     <footer className="mt-6 bg-court-ink text-court-cream border-t-4 border-court-key">
